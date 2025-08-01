@@ -1,0 +1,16 @@
+{
+  "allowed_emails": [
+    "cuong9seven@gmail.com",
+    "0chobietten@gmail.com",
+    "friend1@gmail.com",
+    "friend2@yahoo.com",
+    "student1@neu.edu.vn",
+    "student2@neu.edu.vn",
+    "classmate1@outlook.com",
+    "classmate2@hotmail.com"
+  ],
+  "last_updated": "2025-08-01T10:30:00Z",
+  "total_users": 8,
+  "notes": "Danh sách email được phép sử dụng NEU Study Helper Extension",
+  "admin_contact": "admin@neu.edu.vn"
+}
